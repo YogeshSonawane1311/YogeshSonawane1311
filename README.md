@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
     <p>Total Experience: Fresher</p>
     <p>Current Location: Pimpri-Saudagar, Pune</p>
     <p>Date of Birth: Nov 13, 2001</p>
-    <p>Gender: Male</p>
+    <p style="gem">Gender: Male</p>
     <p>Marital Status: Single / Unmarried</p>
   </div>
 <div class="section">

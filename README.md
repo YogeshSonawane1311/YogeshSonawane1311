@@ -34,8 +34,7 @@ You can click the Preview link to take a look at your changes.
   <ul>
     <li>Programming Languages: Java, Python</li>
     <li>Web Development: HTML, CSS, JavaScript</li>
-    <li>Backend Frameworks: Spring Boot, Django</li>
-    <li>Databases: MySQL, MongoDB</li>
+    <li>Databases: MySQL</li>
     <li>Version Control: Git</li>
     <li>Operating Systems: Windows, Linux</li>
     <li>Problem-Solving Skills: Data structures, algorithms, debugging</li>

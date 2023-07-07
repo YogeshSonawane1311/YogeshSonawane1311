@@ -16,14 +16,15 @@ You can click the Preview link to take a look at your changes.
 
   <div class="section contact-details">
     <h2>Get in Contact</h2>
-    <p>Mobile: +91-7620157708</p>
-    <p>Email: yogeshsonawane1311@gmail.com</p>
+    <p>📞 Mobile : +91-7620157708</p>
+    <p>📧 Email  : <a href="mailto:yogeshsonawane1311@gmail.com">yogeshsonawane1311@gmail.com</a>
+</p>
   </div>
 
   <div class="section">
     <h2>Personal Details</h2>
     <p>Total Experience: Fresher</p>
-    <p>Current Location: Ahmednagar</p>
+    <p>Current Location: Pimpri-Saudagar, Pune</p>
     <p>Date of Birth: Nov 13, 2001</p>
     <p>Gender: Male</p>
     <p>Marital Status: Single / Unmarried</p>
@@ -71,9 +72,12 @@ You can click the Preview link to take a look at your changes.
 
   <div class="section">
     <h2>Courses & Certifications</h2>
-    <p>AWS Certified Cloud Practitioner (Valid Upto February 2026)</p>
-    <p>Udemy Certified Java Programming Masterclass</p>
-    <p>Object-Oriented Programming With Java An Online Non-Credit Project Authorized By Coursera Project Network And Offered Through Coursera Project Network</p>
+    <ul>
+      <li><a href="https://www.credly.com/badges/fa935868-f89c-4808-94a2-dff09642b014/linked_in_profile">AWS Certified Cloud Practitioner</a></li>
+      <li><a href="https://www.udemy.com/certificate/UC-0d6d188e-5733-4dca-896f-a72f40b698f3/">Udemy Certified Java Programming Masterclass</a></li>
+      <li><a href="https://coursera.org/verify/SQ4SUVMXC48V">Object-Oriented Programming With Java An Online Non-Credit Project Authorized By Coursera Project Network And Offered Through Coursera Project Network</a></li>
+    </ul>
+
   </div>
 
   <div class="section">

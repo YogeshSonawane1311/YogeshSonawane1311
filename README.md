@@ -28,7 +28,17 @@ You can click the Preview link to take a look at your changes.
     <p>Gender: Male</p>
     <p>Marital Status: Single / Unmarried</p>
   </div>
-
+<div class="section">
+  <h2>Skills</h2>
+  <ul>
+    <li>Data Structures</li>
+    <li>Object-Oriented Programming (OOP)</li>
+    <li>Java</li>
+    <li>Python</li>
+    <li>Database Management</li>
+    <li>Problem-Solving</li>
+  </ul>
+</div>
   <div class="section">
     <h2>Education History</h2>
     <p>Graduation:</p>

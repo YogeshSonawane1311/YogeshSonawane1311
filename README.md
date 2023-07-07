@@ -23,40 +23,55 @@ You can click the Preview link to take a look at your changes.
 
   <div class="section">
     <h2>Personal Details</h2>
-    <p>Total Experience: Fresher</p>
-    <p>Current Location: Pimpri-Saudagar, Pune</p>
-    <p>Date of Birth: Nov 13, 2001</p>
-    <p style="gem">Gender: Male</p>
-    <p>Marital Status: Single / Unmarried</p>
+    <p>🔰 Total Experience: Fresher</p>
+    <p>🏠 Current Location: Pimpri-Saudagar, Pune</p>
+    <p>📅 Date of Birth: Nov 13, 2001</p>
+    <p >♂️ Gender: Male</p>
+    <p>😗 Marital Status: Single / Unmarried</p>
   </div>
 <div class="section">
   <h2>Skills</h2>
   <ul>
-    <li>Data Structures</li>
-    <li>Object-Oriented Programming (OOP)</li>
-    <li>Java</li>
-    <li>Python</li>
-    <li>Database Management</li>
-    <li>Problem-Solving</li>
+    <li>Programming Languages: Java, Python</li>
+    <li>Web Development: HTML, CSS, JavaScript</li>
+    <li>Backend Frameworks: Spring Boot, Django</li>
+    <li>Databases: MySQL, MongoDB</li>
+    <li>Version Control: Git</li>
+    <li>Operating Systems: Windows, Linux</li>
+    <li>Problem-Solving Skills: Data structures, algorithms, debugging</li>
   </ul>
 </div>
   <div class="section">
-    <h2>Education History</h2>
-    <p>Graduation:</p>
-    <b>Course: B.Tech/B.E. (Computers)</b>
-    <p>College: SHRI CHHATRAPATI SHIVAJI MAHARAJ COLLEGE OF ENGINEERING, Nepti, Ahmednagar</p>
-    <p>Year of Passing: 2023</p>
-    <p>Grade: 8.5/10</p>
-    <b>Class XII:</b>
-    <p>Board: Maharashtra</p>
-    <p>Medium: English</p>
-    <p>Year of Passing: 2019</p>
-    <p>Grade: 58.92%</p>
-    <b>Class X:</b>
-    <p>Board: Maharashtra</p>
-    <p>Medium: English</p>
-    <p>Year of Passing: 2017</p>
-    <p>Grade: 78.2%</p>
+     <table>
+  <tr>
+    <th>COURSE</th>
+    <th>INSTITUTE/COLLEGE</th>
+    <th>BOARD/UNIVERSITY</th>
+    <th>SCORE</th>
+    <th>YEAR</th>
+  </tr>
+  <tr>
+    <td>Bachelor of Engineering (CSE)</td>
+    <td>Shri Chhatrapati Shivaji Maharaj College of Engineering, Nepti, Ahmednagar</td>
+    <td>Savitribai Phule Pune University</td>
+    <td>83.33%</td>
+    <td>(Sem VII) 2023</td>
+  </tr>
+  <tr>
+    <td>CLASS XII (HSC) (SCIENCE)</td>
+    <td>Residential Junior College, Ahmednagar</td>
+    <td>Maharashtra State Board of Secondary and High Secondary (MSBSHSE)</td>
+    <td>58.92%</td>
+    <td>2019</td>
+  </tr>
+  <tr>
+    <td>CLASS X (SSC)</td>
+    <td>Residential High School, Ahmednagar</td>
+    <td>Maharashtra State Board of Secondary and High Secondary (MSBSHSE)</td>
+    <td>78.20%</td>
+    <td>2017</td>
+  </tr>
+</table>
   </div>
 
   <div class="section">

@@ -53,8 +53,8 @@ You can click the Preview link to take a look at your changes.
     <td>Bachelor of Engineering (CSE)</td>
     <td>Shri Chhatrapati Shivaji Maharaj College of Engineering, Nepti, Ahmednagar</td>
     <td>Savitribai Phule Pune University</td>
-    <td>83.33%</td>
-    <td>(Sem VII) 2023</td>
+    <td>Appearing</td>
+    <td>2023</td>
   </tr>
   <tr>
     <td>CLASS XII (HSC) (SCIENCE)</td>

@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
   <div class="section">
      <table>
   <tr>
-    <th>COURSE</th>
+    <th>🧑‍🎓COURSE</th>
     <th>INSTITUTE/COLLEGE</th>
     <th>BOARD/UNIVERSITY</th>
     <th>SCORE</th>
@@ -104,7 +104,7 @@ You can click the Preview link to take a look at your changes.
 
   <div class="section">
     <h2>Publications</h2>
-    <b>IEEE research paper on Enriching Trustworthy trade in Decentralized system using Blockchain</b>
+    <b>🏁IEEE research paper on Enriching Trustworthy trade in Decentralized system using Blockchain</b>
     <p>Paper URL: <a href="https://ieeexplore.ieee.org/document/10151512">https://ieeexplore.ieee.org/document/10151512</a></p>
     <b>UGC Approved IJSRD reviewed paper published on An in-depth review on Trustworthy Freelancing Crowdsourcing using Blockchains</b>
     <p>Paper URL: <a href="https://www.ijsrd.com/Article.php?manuscript=IJSRDV10I90013">https://www.ijsrd.com/Article.php?manuscript=IJSRDV10I90013</a></p>
